@@ -1,0 +1,15 @@
+008
+CSE 301
+Cơ sở dữ liệu
+Not finished
+0.0
+007
+CSE 206
+Kiến trúc và cấu tạo máy tính
+Not finished
+0.0
+020
+CSE 307
+Lập trình web
+Not finished
+0.0

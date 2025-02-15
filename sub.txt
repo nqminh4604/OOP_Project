@@ -1,0 +1,100 @@
+001
+CSE 101
+Tin học đại cương
+Not finished
+0.0
+002
+CSE 102
+Nhập môn lập trình
+Not finished
+0.0
+003
+CSE 107
+Toán tin ứng dụng
+Not finished
+0.0
+004
+CSE 201
+Cấu trúc dữ liệu và giải thuật
+Not finished
+0.0
+005
+CSE 203
+Lập trình hướng đối tượng
+Not finished
+0.0
+006
+CSE 205
+Mạng và truyền thông
+Not finished
+0.0
+007
+CSE 206
+Kiến trúc và cấu tạo máy tính
+Not finished
+0.0
+008
+CSE 301
+Cơ sở dữ liệu
+Not finished
+0.0
+009
+CSE 302
+Hệ điều hành
+Not finished
+0.0
+010
+MATH 101
+ Giải tích 1A
+Not finished
+0.0
+011
+MATH 103
+Đại số tuyến tính
+Not finished
+0.0
+012
+PHYS 101
+Vật lý 1A
+Not finished
+0.0
+013
+PHYS 203
+Vật lý 2
+Not finished
+0.0
+014
+BUS 101
+Fundamentals of Business Administration
+Not finished
+0.0
+015
+BUS 301
+Professional Carrer Development
+Not finished
+0.0
+016
+MATH107
+Toán Tin Ứng Dụng
+Not finished
+0.0
+017
+CSE 303
+Phân Tích Và Thiết Kế Giải Thuật
+Finished
+0.0
+018
+CSE 310
+Đồ án Kỹ thuật phần mềm
+Not finished
+0.0
+019
+CSE 306
+Lập trình mạng
+Not finished
+0.0
+020
+CSE 307
+Lập trình web
+Not finished
+0.0

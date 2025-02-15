@@ -1,0 +1,45 @@
+001
+CSE 101
+Tin học đại cương
+Not finished
+0.0
+003
+CSE 107
+Toán tin ứng dụng
+Not finished
+0.0
+002
+CSE 102
+Nhập môn lập trình
+Not finished
+0.0
+004
+CSE 201
+Cấu trúc dữ liệu và giải thuật
+Not finished
+0.0
+005
+CSE 203
+Lập trình hướng đối tượng
+Not finished
+0.0
+006
+CSE 205
+Mạng và truyền thông
+Not finished
+0.0
+007
+CSE 206
+Kiến trúc và cấu tạo máy tính
+Not finished
+0.0
+008
+CSE 301
+Cơ sở dữ liệu
+Not finished
+0.0
+009
+CSE 302
+Hệ điều hành
+Finished
+4.0

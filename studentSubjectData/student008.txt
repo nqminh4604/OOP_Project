@@ -1,0 +1,40 @@
+005
+CSE 203
+Lập trình hướng đối tượng
+Not finished
+0.0
+011
+MATH 103
+Đại số tuyến tính
+Not finished
+0.0
+015
+BUS 301
+Professional Carrer Development
+Not finished
+0.0
+014
+BUS 101
+Fundamentals of Business Administration
+Not finished
+0.0
+001
+CSE 101
+Tin học đại cương
+Not finished
+0.0
+007
+CSE 206
+Kiến trúc và cấu tạo máy tính
+Not finished
+0.0
+012
+PHYS 101
+Vật lý 1A
+Not finished
+0.0
+002
+CSE 102
+Nhập môn lập trình
+Not finished
+0.0
